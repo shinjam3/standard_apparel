@@ -1,0 +1,4 @@
+* { /* Makes sure there is no margin and padding on browser */
+  margin: 0;
+  padding: 0;
+}
