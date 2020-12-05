@@ -36,4 +36,4 @@ A fictional online clothing website that performs comparably to commercial eComm
    * To run tests for the front-end, go to the "retail_frontend" directory on the terminal and run "npm test".
    * To run tests for the back-end, go to the "retail_backend" directory on the terminal and run "npm test".
    * Note: the tests will not affect the code or keep test data in the database.
-1. To exit tests, type "ctrl + c" in the terminal.
+1. To exit tests, hold the "ctrl" and "c" keys in the terminal (windows) or the "command" + "." keys (macOS).
