@@ -3,7 +3,7 @@ A MERN Stack eCommerce Website: Standard Apparel (2020)
 
 
 ## Software Used: 
-HTML, CSS, React, Redux, MongoDB, Node Express, Jest, JWT, bcrypt
+HTML, CSS, JavaScript, React, Redux, MongoDB, Node Express, Jest, JWT, bcrypt
 
 
 ## Description: 
