@@ -21,7 +21,7 @@ A fictional online clothing website that performs comparably to commercial eComm
    * Note: use command "set" for Windows or "export" for macOS.
    * For example: >> set NODE_ENV=development.
 1. In the "retail_backend" folder, you will see a file called "loadCatalog.js". Open the file and replace "your_db" with your database's name, on line 14 of the file.
-1. Open a command terminal and go to the "retail_frontend" directory, then run "npm i" to install the dependencies. Do not close this terminal.
+1. Open a command terminal and go to the "retail_frontend" directory, then run "npm i" to install the dependencies. You can ignore the "vulnerabilities" in the terminal. Do not close this terminal.
 1. Open a second terminal for the "retail_backend" directory, then run "npm i" to install the dependencies. Do not close this or the previous terminal.
 1. On the terminal with the "retail_backend" directory, run "node loadCatalog.js". This will insert the clothing catalog into the database.
 1. Afterwards, in the "retail_frontend" terminal, run "npm start" to run the front-end website.
