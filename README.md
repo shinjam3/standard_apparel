@@ -26,6 +26,7 @@ A fictional online clothing website that performs comparably to commercial eComm
 1. On the terminal with the "retail_backend" directory, run "node loadCatalog.js". This will insert the clothing catalog into the database.
 1. Afterwards, in the "retail_frontend" terminal, run "npm start" to run the front-end website.
 1. Finally, in the "retail_backend" terminal, run "node index.js" to run the back-end server.
+1. To close the program on the terminals, simply close both terminals.
 
 
 ## To run tests:
