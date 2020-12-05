@@ -10,7 +10,7 @@ HTML, CSS, JavaScript, React, Redux, MongoDB, Node Express, Jest, JWT, bcrypt
 A fictional online clothing website that performs comparably to commercial eCommerce websites. Users are able to create secure accounts with encrypted passwords to simulate purchases and have their online shopping carts saved for future logins.
 
 
-## Preparations:
+## Preparations before downloading and running the project:
 * Please set up a local or cloud (Atlas) MongoDB database if you haven't already.
 * Please have Node.js installed. I am currently using Node.js version 12.16.3 for this project.
 
