@@ -1,5 +1,4 @@
-# standard_apparel
-A MERN Stack eCommerce Website: Standard Apparel (2020)
+# A MERN Stack eCommerce Website: Standard Apparel (2020)
 
 
 ## Software Used: 
