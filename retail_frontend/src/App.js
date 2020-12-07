@@ -24,14 +24,14 @@ class App extends Component {
 					<Header />
 					
 					<Switch>
-						<Route path='/women' render={ props => <Catalog section={'women'} /> }	/>
+						<Route path='/women' render={ props => <Catalog key={1} section={'women'} {...props} /> }	/>
+											
+						<Route path='/men' render={ props => <Catalog key={2} section={'men'} {...props} /> }	/>
 						
-						<Route path='/men' render={ props => <Catalog section={'men'} /> }	/>
-						
-						<Route path='/kids' render={ props => <Catalog section={'kids'} /> } />
+						<Route path='/kids' render={ props => <Catalog key={3} section={'kids'} {...props} /> } />
 						
 						<Route path='/more' component={More} />
-						
+
 						<Route path='/profile' render={ props => <Profile /> } />
 						
 						<Route path='/account-deleted' render={ props => <DeletedAccount {...props} /> } />
