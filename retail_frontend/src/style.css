@@ -443,7 +443,7 @@ button:hover {
 	display: block;
 	visibility: hidden;
 	margin: auto;
-	width: 800px;
+	width: 60vw;
 	padding: 20px;
 	background-color: cornsilk;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -456,8 +456,7 @@ button:hover {
 }
 
 
-
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 380px) {
 	.register-form {
 		width: 250px;
 	}
@@ -478,6 +477,11 @@ button:hover {
 @media screen and (max-width: 580px) {
 	.register-error {
 		width: 280px;
+	}
+	
+	.register-terms {
+		height: 500px;
+		overflow-y: scroll;
 	}
 }
 /* END REGISTER STYLES */
