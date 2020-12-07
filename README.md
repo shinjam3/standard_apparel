@@ -10,8 +10,8 @@ A fictional online clothing website that performs comparably to commercial eComm
 
 
 ## Desktop and mobile website demo videos:
-* https://youtu.be/xbaQxa69Z0I
-* https://youtu.be/34ZjATkVTOM
+* https://youtu.be/kPmvP9DXnFQ
+* https://youtu.be/mYWNdd2v6_g
 
 
 ## Preparations before downloading and running the project:
