@@ -1,4 +1,4 @@
-# A MERN Stack eCommerce Website Project: Standard Apparel (2020)
+# Non-Profit MERN Stack eCommerce Website: Standard Apparel (2020)
 
 
 ## Software Used: 
