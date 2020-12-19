@@ -4,10 +4,13 @@
 ## Software Used: 
 HTML, CSS, JavaScript, React, Redux, MongoDB, Node Express, Jest, JWT, bcrypt
 
-
-## Description: 
-A fictional online clothing website that performs comparably to commercial eCommerce websites. Users are able to create secure accounts with encrypted passwords to simulate purchases and have their online shopping carts saved for future logins.
-
+## Key Functionalities:
+* Create secure accounts with encrypted passwords in a database.
+* Browse through clothing catalog and add items to online shopping cart.
+*	Log out of account to save online shopping cart for future log ins.
+*	Save shipping and payment information to database.
+*	Simulate eCommerce purchases.
+*	Users can delete existing accounts under settings.
 
 ## Desktop and mobile website demo videos:
 * https://youtu.be/kPmvP9DXnFQ
